@@ -1,5 +1,5 @@
 
-# GitHub Repository Issues tracker
+# GitHub Repository Issues Tracker
 
 A collaborative project replicating GitHub’s login and issue tracking functionality.
 > [Website Link](https://f2e-2bac8.web.app/login)
