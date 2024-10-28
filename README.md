@@ -28,7 +28,7 @@ A collaborative project replicating GitHub’s login and issue tracking function
 ![](https://i.imgur.com/L2QLDl4.png)
 ## Features
 
-- Users can login with their GitHub accounts.
+- Users can log in with their GitHub accounts.
 - Users can view their own repositories.
 - Users can create, read, update, and delete issues (CRUD operations).
 - Users can search for issues by title and content.
